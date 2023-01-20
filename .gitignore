@@ -7,3 +7,4 @@ __pycache__
 *.mo
 backend/db.sqlite3
 .coverage
+schema.yaml
